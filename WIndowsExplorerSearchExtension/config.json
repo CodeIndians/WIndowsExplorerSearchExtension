@@ -1,0 +1,13 @@
+{
+  "Drives": [ "O", "T" ],
+  "SearchResults": [
+    {
+      "NodeType": "Folder",
+      "ResultPath": "C:\\Folder1\\Folder2\\"
+    },
+    {
+      "NodeType": "File",
+      "ResultPath": "C:\\Folder1\\Folder2\\mydoc.txt"
+    }
+  ]
+}
